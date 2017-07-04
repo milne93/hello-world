@@ -1,2 +1,3 @@
 # hello-world
-Following the tutorial
+
+Step two of the tutorial done. Hi there step three.
